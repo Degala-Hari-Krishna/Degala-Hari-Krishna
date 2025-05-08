@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Hari Krishna 👋
 
 🎓 3rd Year B.Tech CSE Student  
