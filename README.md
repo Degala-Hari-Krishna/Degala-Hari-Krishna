@@ -16,7 +16,7 @@ I'm a 3rd-year B.Tech student in Computer Science, passionate about building use
 - **Tools:** Git, GitHub, VS Code
 
 ## 📬 Let’s Connect
-- 📧 degalaharikrishna@gmail.com  
+- 📧 harikrishna69322@gmail.com  
 - 🔗 *https://www.linkedin.com/in/degala-hari-krishna-6430b526a/*
 
 ---
