@@ -1,22 +1,25 @@
-# Hi, I'm Hari Krishna 👋
+# Hey there! I'm Hari Krishna 👋
 
-🎓 3rd Year B.Tech CSE Student  
-🌐 Aspiring Full Stack Developer (MERN)  
-🔧 Exploring Flutter | Node.js | MongoDB  
+I'm a 3rd-year B.Tech student in Computer Science, passionate about building useful and meaningful software.
 
-## 🚀 Projects I'm Working On
-- Student Activity Management System (MERN)
-- Portfolio Website using React
-- To Do List
+💻 Right now, I’m diving deep into full-stack development with the **MERN stack** — and I’ve recently started exploring **Flutter** for mobile app development too!
 
-## 🛠️ Tech Stack
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- Database: MongoDB
-- Tools: Git, GitHub, VS Code
+## 🚧 What I'm Working On
+- A full-featured **Student Activity Management System**
+- My personal **Portfolio Website** built with React
+- A simple **To Do List**
 
-## 📫 Connect With Me
-- 📧 harikrishna69322@gmail.com
-- 🔗 www.linkedin.com/in/degala-hari-krishna-6430b526a
+## 🧰 My Tech Toolbox
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code
 
+## 📬 Let’s Connect
+- 📧 degalaharikrishna@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/) *(share your actual link here)*
+
+---
+
+Thanks for stopping by! I love building things, learning new tech, and solving real-world problems through code.  
 ⚡ *"Code. Learn. Build. Repeat."*
