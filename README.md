@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Degala-Hari-Krishna/Degala-Hari-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hari Krishna 👋
 
-Here are some ideas to get you started:
+🎓 3rd Year B.Tech CSE Student  
+🌐 Aspiring Full Stack Developer (MERN)  
+🔧 Exploring Flutter | Node.js | MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I'm Working On
+- Student Activity Management System (MERN)
+- Portfolio Website using React
+- To Do List
+
+## 🛠️ Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+
+## 📫 Connect With Me
+- 📧 harikrishna69322@gmail.com
+- 🔗 www.linkedin.com/in/degala-hari-krishna-6430b526a
+
+⚡ *"Code. Learn. Build. Repeat."*
