@@ -17,7 +17,7 @@ I'm a 3rd-year B.Tech student in Computer Science, passionate about building use
 
 ## 📬 Let’s Connect
 - 📧 degalaharikrishna@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(share your actual link here)*
+- 🔗 https://www.linkedin.com/in/degala-hari-krishna-6430b526a/*
 
 ---
 
