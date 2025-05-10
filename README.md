@@ -1,6 +1,8 @@
-# Hey there! I'm Hari Krishna 👋
-
-I'm a 3rd-year B.Tech student in Computer Science, passionate about building useful and meaningful software.
+# 👋 Hi, I'm Hari Krishna
+- 🎓 Computer Science Student
+- 💻 Passionate about Web Development and JavaScript
+- 🌱 Currently learning React and [exploring APIs
+- 📫 Reach me at: harikrishna69322@gmail.com
 
 💻 Right now, I’m diving deep into full-stack development with the **MERN stack** — and I’ve recently started exploring **Flutter** for mobile app development too!
 
