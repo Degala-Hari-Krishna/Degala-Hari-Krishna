@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Hari Krishna
 - 🎓 Computer Science Student
 - 💻 Passionate about Web Development and JavaScript
-- 🌱 Currently learning React and [exploring APIs
+- 🌱 Currently learning React
 - 📫 Reach me at: harikrishna69322@gmail.com
 
 💻 Right now, I’m diving deep into full-stack development with the **MERN stack** — and I’ve recently started exploring **Flutter** for mobile app development too!
 
 ## 🚧 What I'm Working On
 - A full-featured **Student Activity Management System**
-- My personal **Portfolio Website** built with React
 - A simple **To Do List**
 
 ## 🧰 My Tech Toolbox
